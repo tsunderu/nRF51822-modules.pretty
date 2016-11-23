@@ -1,6 +1,6 @@
 nRF51822-modules.pretty
 ====
-Kicad footprints for BLE modules based on nRF51822 SoC.
+The KiCad footprints for BLE modules based on nRF51822 SoC.
 
 The schematic library is available at [tsunderu/kicad-library](https://github.com/tsunderu/nRF51822-modules.pretty).
 
